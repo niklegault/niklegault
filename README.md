@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @niklegault
-- 👀 I’m interested in Software development and Videogames!
-- 🌱 I’m currently learning embedded and real time C development University!
+
 
 <!---
 niklegault/niklegault is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
